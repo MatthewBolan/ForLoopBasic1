@@ -6,4 +6,4 @@ for x in range (500001):
         
         sum = sum + x
         
-        print(sum)
+print(sum)
